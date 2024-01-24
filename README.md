@@ -3,21 +3,25 @@
 Лендинговая страница Uber Russia. В проекте используется адаптивный пользовательский интерфейс, реализованный через библиотеку шаблонов CSS Bootstrap. Проект свёрстан по макету в Figma.
 
 ### Функционал: ###
-User eXperience (UX);
-Адаптивный интерфейс для разных устройств.
+<ol>
+  <li>User eXperience (UX);</li>
+  <li>Адаптивный интерфейс для разных устройств.</li>
+</ol>
 
 ### Стек технологий: ###
-HTML5;
-CSS3:
-Flexbox;
-Grid Layout;
-Positioning;
-Adaptive UI;
-Media Queries;
-Вендорные префиксы в CSS;
-Препроцессоры: SASS/SCSS/LESS;
-Библиотека Bootstrap v4.6;
-Иконочные шрифты.
+<ol>
+  <li>HTML5;</li>
+  <li>CSS3:</li>
+  <li>Flexbox;</li>
+  <li>Grid Layout;</li>
+  <li>Positioning;</li>
+  <li>Adaptive UI;</li>
+  <li>Media Queries;</li>
+  <li>Вендорные префиксы в CSS;</li>
+  <li>Препроцессоры: SASS/SCSS/LESS;</li>
+  <li>Библиотека Bootstrap v4.6;</li>
+  <li>Иконочные шрифты.</li>
+</ol>
 
 ### Скриншот ###
 ![Image alt](https://github.com/pdklzn/uber-russia/blob/main/screen.jpg)
